@@ -4,7 +4,7 @@
 
 1. **Nombres y apellidos:** Francisco Javier Moreno Quevedo
 2. **Fecha:** 17/01/2021
-3. **Resumen del Ejercicio:**  Completar el proyecto para poder manipular los datos
+3. **Resumen del Ejercicio:**  Completar el proyecto para poder devolver los datos
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguna
 
 
